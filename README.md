@@ -6,3 +6,4 @@
 4.gsm页增加点击pubmed编号可以跳转<br>
 5.网址更新在all2.xlsx,数据有修改<br>
 6.search下的表格上面需要增加一个能够动态生成多少条结果的，showing xxx entries<br>
+7.
